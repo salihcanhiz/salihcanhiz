@@ -1,27 +1,22 @@
-# Hi, it's Salih Can's GitHub 👋 Thanks for visiting.
+<h1 align="center">Hi , it's Salih Can's github 👋</h1>
+<h3 align="center">I am a computer engineering undergraduate student looking fon an intership position to help me developand learn. I like having different roles in a projects. I want to improve myself and my vision.</h3>
 
-#### I am a computer engineering undergraduate student looking fon an intership position to help me developand learn. I like having different roles in a projects. I want to improve myself and my vision.
+- 📫 How to reach me **salihcanhiz20@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/salihcanhz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salihcanhz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//salih-can-hız-6b4548235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/salih-can-hız-6b4548235/" height="30" width="40" /></a>
+<a href="https://instagram.com/salihcanhiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salihcanhiz" height="30" width="40" /></a>
+</p>
+<h3 align="left">🌱 I’m currently learning:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
-## 💻 Skills
-![C Badge](https://img.shields.io/badge/-C-blue)
-![Mysql Badge](https://user-images.githubusercontent.com/108831247/177637129-fddb64a5-88e8-455d-9542-f84abc54c6e0.png)
-![Java Badge](https://user-images.githubusercontent.com/108831247/177637457-c084e73f-dbe6-4f21-b3e7-dd98c9d6edad.png)
-![VS Code Badge](https://user-images.githubusercontent.com/108831247/177637481-a385da1b-4d90-4858-ad82-47ffe334489e.png)
-----
-📚  I am Currently Learning :
-![image](https://user-images.githubusercontent.com/108831247/177637056-bf6821ab-4b32-4a6e-8c89-2cce23a85e59.png)
-![image](https://user-images.githubusercontent.com/108831247/177637079-bf9d7331-3e39-4db9-8b1a-0f41a14c9629.png)
-![image](https://user-images.githubusercontent.com/108831247/177637103-73cbdf71-a02f-4a20-80d2-6e889626b042.png)
-![image](https://user-images.githubusercontent.com/108831247/177637702-3d328a96-8d53-4f2f-8bde-5bd3fa58a5d8.png)
-![image](https://user-images.githubusercontent.com/108831247/177637795-3a786f5d-7524-4977-ab80-09859e4c3210.png)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihcanhiz&show_icons=true&theme=dark&locale=en&layout=compact" alt="salihcanhiz" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihcanhiz&show_icons=true&theme=dark&locale=en" alt="salihcanhiz" /></p>
 
-
-### You can connect with me anytime you want:
-### [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=link)](https://www.instagram.com/salihcanhiz/)
-### [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/salihcanhz/) 
-### [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salih-can-hız-6b4548235/)
----
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=salihcanhiz&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitsokel1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihcanhiz&theme=dark" alt="salihcanhiz" /></p>
