@@ -1,5 +1,5 @@
 <h1 align="center">Hi , it's Salih Can's github 👋</h1>
-<h3 align="center"I'm working to become a better software developer, and I have a keen interest in innovative learning. Lately, I've been focusing on improving myself in my field by studying Java Spring and ReactJS</h3>
+<h3 align="center">I'm working to become a better software developer, and I have a keen interest in innovative learning. Lately, I've been focusing on improving myself in my field by studying Java Spring and ReactJS.</h3>
 
 - 📫 How to reach me **salihcanhiz20@gmail.com**
 
